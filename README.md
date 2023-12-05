@@ -1,7 +1,7 @@
 # SportMate
 
 ## Introduction
-SportMate is an innovative iOS application developed using Swift and SQLite3, designed to connect sports enthusiasts. Our platform facilitates users in finding partners or groups to engage in various sports activities, fostering new connections and promoting a healthy lifestyle.
+SportMate is an innovative iOS application developed using Swift and SQLite3, designed to connect sports enthusiasts. The platform facilitates users in finding partners or groups to engage in various sports activities, fostering new connections and promoting a healthy lifestyle.
 
 
 ## Features
